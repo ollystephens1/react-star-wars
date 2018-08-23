@@ -11,7 +11,7 @@ const ConnectedHome = ({ tiles }) => {
     <div className="container">
       <div className="row pt-4">
         {tiles.map((tile, i) => (
-          <Tile key={i} name={tile.name} />
+          <Tile key={i} {...tile} />
         ))}
       </div>
     </div>
