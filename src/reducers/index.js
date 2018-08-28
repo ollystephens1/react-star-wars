@@ -1,11 +1,11 @@
 const initialState = {
   tiles: [
-    { name: 'People', link: '/people', icon: 'people.png' },
-    { name: 'Films', link: '/films', icon: 'films.png' },
-    { name: 'Starships', link: '/starships', icon: 'starships.png' },
-    { name: 'Vehicles', link: '/vehicles', icon: 'vehicles.png' },
-    { name: 'Species', link: '/species', icon: 'species.png' },
-    { name: 'Planets', link: '/planets', icon: 'planets.png' }
+    { name: 'People', link: '/people', icon: 'people.jpg' },
+    { name: 'Films', link: '/films', icon: 'films.jpg' },
+    { name: 'Starships', link: '/starships', icon: 'starships.jpg' },
+    { name: 'Vehicles', link: '/vehicles', icon: 'vehicles.jpg' },
+    { name: 'Species', link: '/species', icon: 'species.jpg' },
+    { name: 'Planets', link: '/planets', icon: 'planets.jpg' }
   ]
 };
 
